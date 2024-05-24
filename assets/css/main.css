@@ -60,6 +60,11 @@ mark {
 	color: inherit;
 }
 
+mark.red {
+    color:#ff0000;
+    background: none;
+}
+
 input::-moz-focus-inner {
 	border: 0;
 	padding: 0;
